@@ -1,5 +1,19 @@
 # Pharmacy Simulator
 
+Scratch mini game
+
+## Usage
+
+### A. Online
+
+https://scratch.mit.edu/projects/420217090/fullscreen/
+
+### B. Offline
+
+1.Download HTML file
+2.Open in browser
+3.Enjoy
+
 Click to drag the pills to create the right schedule.
 <br>
 Click on squirrel to submit answer.
